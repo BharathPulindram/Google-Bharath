@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Google-Bharath/static/css/main.fd55ce28.chunk.css",
+    "main.js": "/Google-Bharath/static/js/main.ec25c8a6.chunk.js",
+    "main.js.map": "/Google-Bharath/static/js/main.ec25c8a6.chunk.js.map",
+    "runtime-main.js": "/Google-Bharath/static/js/runtime-main.db808720.js",
+    "runtime-main.js.map": "/Google-Bharath/static/js/runtime-main.db808720.js.map",
+    "static/js/2.5d3d0092.chunk.js": "/Google-Bharath/static/js/2.5d3d0092.chunk.js",
+    "static/js/2.5d3d0092.chunk.js.map": "/Google-Bharath/static/js/2.5d3d0092.chunk.js.map",
+    "index.html": "/Google-Bharath/index.html",
+    "precache-manifest.5f8174b782ca0aa36ce92127ca3600e5.js": "/Google-Bharath/precache-manifest.5f8174b782ca0aa36ce92127ca3600e5.js",
+    "service-worker.js": "/Google-Bharath/service-worker.js",
+    "static/css/main.fd55ce28.chunk.css.map": "/Google-Bharath/static/css/main.fd55ce28.chunk.css.map",
+    "static/js/2.5d3d0092.chunk.js.LICENSE.txt": "/Google-Bharath/static/js/2.5d3d0092.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db808720.js",
+    "static/js/2.5d3d0092.chunk.js",
+    "static/css/main.fd55ce28.chunk.css",
+    "static/js/main.ec25c8a6.chunk.js"
+  ]
+}
